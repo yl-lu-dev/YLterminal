@@ -25,8 +25,8 @@ notRED = "\033[0m"
 
 print('YLterminal version: release 1.0')
 print('made on: 2025-07-26')
-print('finish time:') 
-print('publish time:')
+print('finish time: 2025-07-31') 
+print('publish time: 2025-07-31')
      
 
 os.system("color 7")
@@ -134,6 +134,8 @@ while True:
 
         if not found_open:
             print(f"{RED}No open ports found in the range.{notRED}")
+
+    
      
     
     
