@@ -6,8 +6,7 @@ A custom Python terminal tool with handy utilities for files, networks, and syst
 YLterminal is your one-stop command-line helper. It simplifies daily tasks like managing files, checking networks, and tweaking system settings—all in a simple interface.  
 
 
-## ✨ Features  
-Double-tap a section to learn more:  
+## ✨ Features    
 
 ### 📂 File Tools  
 - `file /creat`: Make new files with custom content  
