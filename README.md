@@ -27,8 +27,3 @@ Double-tap a section to learn more:
 - `c`: Change directories  
 - `here`: Show your current folder  
 
-
-## 🚀 How to Use  
-1. Clone the repo:  
-   ```bash  
-   git clone https://github.com/your-username/ylterminal.git  
